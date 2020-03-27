@@ -16,3 +16,7 @@ This is purpose text.
 Deployment text is added here.
 
 ## How To Contribute
+
+### Copyright
+
+All rights reserved!!!
