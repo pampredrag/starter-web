@@ -17,6 +17,8 @@ Deployment text is added here.
 
 ## How To Contribute
 
+Please fork this repo and then issue a pull request for review.
+
 ### Copyright
 
 All rights reserved!!!
